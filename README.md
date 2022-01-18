@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Don-Alvin
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python (just staerted)
-- 💞️ I’m looking to collaborate on building machine learning systems
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently doing HTML& CSS plus javascript.
 - 📫 How to reach me 0703287601
 
 <!---
