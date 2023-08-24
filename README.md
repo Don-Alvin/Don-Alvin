@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Don-Alvin
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently doing HTML& CSS plus javascript.
+- 👀 I am a frontend developer.
+- 🌱 I have skills in JavaScript, HTML, CSS. I am proficient in frameworks: React,Tailwind, SCSS.
 - 📫 How to reach me 0703287601
 
 <!---
