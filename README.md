@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Don-Alvin
 - 👀 I am a frontend developer.
 - 🌱 I have skills in JavaScript, HTML, CSS. I am proficient in frameworks: React,Tailwind, SCSS.
-- 📫 How to reach me 0703287601
+- 📫 Email: alvindon41@gmail.com
 
 <!---
 Don-Alvin/Don-Alvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
